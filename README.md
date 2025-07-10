@@ -19,7 +19,7 @@
     <sup>5</sup>Politecnico di Milano
   </p>
 
-  <h2 align="center">ACM CHI Conference on Human Factors in Computing Systems (CHI 2025)</h2>
+  <h2 align="center">CHI 2025</h2>
 
   <h3 align="center">
     <a href="https://dl.acm.org/doi/10.1145/3706598.3714303">Paper</a>
@@ -32,3 +32,12 @@
     <img src="assets/teaser.png" alt="Teaser Image" width="100%">
   </a>
 </p>
+
+### 📄 Open Source Notice
+
+Due to the Unity project’s reliance on numerous third-party libraries and the use of commercial models in *Immersive Biography* that are subject to copyright restrictions, we are only able to open source the main script files.
+
+The Assets, 3D models, and complete scene files cannot be made publicly available.
+
+If you are interested in the full project files or further details, please contact the first author Ke Zhao.
+
