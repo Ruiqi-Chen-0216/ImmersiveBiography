@@ -33,7 +33,7 @@
   </a>
 </p>
 
-### 📄 Open Source Notice
+## 📄 Open Source Notice
 
 Due to the Unity project’s reliance on numerous third-party libraries and the use of commercial models in *Immersive Biography* that are subject to copyright restrictions, we are only able to open source the main script files.
 
