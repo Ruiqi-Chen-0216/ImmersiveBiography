@@ -12,11 +12,11 @@
     <a href="https://sim.whu.edu.cn/info/1205/6163.htm">Yujue Wang</a><sup>4</sup>, 
     <a href="https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en">Xin Tong</a><sup>1,3</sup>
     <br>
-    <sup>1</sup>Duke Kunshan University <br>
-    <sup>2</sup>University of Washington <br>
-    <sup>3</sup>Hong Kong University of Science and Technology (Guangzhou) <br>
-    <sup>4</sup>Wuhan University <br>
-    <sup>5</sup>Politecnico di Milano <br>
+    <sup>1</sup>Duke Kunshan University, 
+    <sup>2</sup>University of Washington, 
+    <sup>3</sup>Hong Kong University of Science and Technology (Guangzhou), 
+    <sup>4</sup>Wuhan University, 
+    <sup>5</sup>Politecnico di Milano
   </p>
 
   <h2 align="center">ACM CHI Conference on Human Factors in Computing Systems (CHI 2025)</h2>
