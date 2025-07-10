@@ -41,3 +41,22 @@ The Assets, 3D models, and complete scene files cannot be made publicly availabl
 
 If you are interested in the full project files or further details, please contact the first author Ke Zhao.
 
+## Citing Immersive Biography
+
+If you use Immersive Biography or the structure in your research, please use the following BibTeX entry.
+
+```bibtex
+  @inproceedings{10.1145/3706598.3714303,
+  author = {Zhao, Ke and Chen, Ruiqi and Zhang, Xiaziyu and Wang, Chenxi and Chen, Siling and Wang, Xiaoguang and Wang, Yujue and Tong, Xin},
+  title = {Immersive Biography: Supporting Intercultural Empathy and Understanding for Displaced Cultural Objects in Virtual Reality},
+  year = {2025},
+  isbn = {9798400713941},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi-org.offcampus.lib.washington.edu/10.1145/3706598.3714303},
+  doi = {10.1145/3706598.3714303},
+  booktitle = {Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems},
+  articleno = {1148},
+  series = {CHI '25}
+  }
+```
