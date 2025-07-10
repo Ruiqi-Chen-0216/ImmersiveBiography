@@ -53,10 +53,8 @@ If you use Immersive Biography or the structure in your research, please use the
   isbn = {9798400713941},
   publisher = {Association for Computing Machinery},
   address = {New York, NY, USA},
-  url = {https://doi-org.offcampus.lib.washington.edu/10.1145/3706598.3714303},
   doi = {10.1145/3706598.3714303},
   booktitle = {Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems},
-  articleno = {1148},
   series = {CHI '25}
   }
 ```
